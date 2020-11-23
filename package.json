@@ -1,0 +1,11 @@
+{
+  "name": "applerc",
+  "version": "1.0.0",
+  "description": "bot para messenger de prueba.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lercc <lercc.en@gmail.com>",
+  "license": "MIT"
+}
